@@ -1,4 +1,5 @@
 # Crypto notebook
+(The languid pleasures of slow investing)
 ## Some important indicators
 ### TEMA (Triple Exponential Moving Average)
 I use 12, 50, 200 as short, medium and long length.
