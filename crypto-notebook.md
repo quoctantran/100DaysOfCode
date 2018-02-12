@@ -14,18 +14,20 @@ ATR is not a directional indicator, such as MACD or RSI. Instead, ATR is a uniqu
 EFI measures the power behind a price movement using price and volume. The indicator can also be used to identify potential reversals and price corrections. The EFI is an oscillator that fluctuates between positive and negative values, above and below a Zero Line. Alexander Elder, the indicator's creator, believed that there are three components to a security's price movement. Those three components are; *direction, extent and volume*. All three of these components are combined by the EFI to generate the oscillator. 
 ### Ichimoku cloud
 *Bullish Signals:*
-Price moves above Cloud (trend)
-Cloud turns from red to green (ebb-flow within trend)
-Price Moves above the Base Line (momentum)
-Conversion Line moves above Base Line (momentum)
+- Price moves above Cloud (trend)
+- Cloud turns from red to green (ebb-flow within trend)
+- Price Moves above the Base Line (momentum)
+- Conversion Line moves above Base Line (momentum)
+
 *Bearish Signals:*
-Price moves below Cloud (trend)
-Cloud turns from green to red (ebb-flow within trend)
-Price Moves below Base Line (momentum)
-Conversion Line moves below Base Line (momentum)
+- Price moves below Cloud (trend)
+- Cloud turns from green to red (ebb-flow within trend)
+- Price Moves below Base Line (momentum)
+- Conversion Line moves below Base Line (momentum)
 ### Stochastics and RSI (Relative Strength Index)
 Oscillators: to determine the strength of a trend or to predict tops and bottoms because of overbought and oversold conditions, signal to enter or exit. So it's good for short term.
-### Bollinger band: Support & resistance
+### Bollinger band: 
+Show support & resistance
 
 ## Indicators used at the same time.
 MACD, stochastics and RSI may be part of the same "family". So they may be redundant. We can pick one from each group below.
