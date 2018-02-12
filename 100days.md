@@ -7,6 +7,7 @@
 + Get familiar with [command line on Mac](https://www.davidbaumgold.com/tutorials/command-line/)
 + Check if HomeBrew is already installed on Mac (`brew help`) and fix some Brew problems (`brew doctor`)
 + To delete files in /usr/local/lib in command line, use `cd /usr/local/lib` and then `sudo rm ./file-name`
++ To edit file .zshrc, use `nano ~/.zshrc`, then tap Ctrl-X to exit the editing mode
 + Install [Wine on Mac](https://www.davidbaumgold.com/tutorials/wine-mac/)
 + The purpose of this exercise is to install [WCopyFind](http://plagiarism.bloomfieldmedia.com/wordpress/software/wcopyfind/), a tool to check plagiarism runned on Windows
 3. Explore OpenData from [ROpenSCI](https://github.com/ropensci/opendata)
