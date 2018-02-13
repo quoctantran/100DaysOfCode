@@ -20,3 +20,9 @@ wine WCopyfind.4.1.5.exe
 3. Explore OpenData from [ROpenSCI](https://github.com/ropensci/opendata)
 4. Some miscellaneous /ˌmisi'leɪnjəs/ readings for today
 - [Richard I of England](https://en.wikipedia.org/wiki/Richard_I_of_England)
+
+## Day2
+
+1. Track the hashtag [#Oxfamscandal](https://twitter.com/search?q=%23oxfamscandal) to follow the Oxfam scandal in the humanitarian sector.
+
+2. Read Michael Hoffmann's [review](https://www.lrb.co.uk/v32/n21/michael-hofmann/reger-said) of Thomas Bernhard's *Old masters*.
