@@ -27,8 +27,13 @@ EFI measures the power behind a price movement using price and volume. The indic
 - Conversion Line moves below Base Line (momentum)
 ### Stochastics and RSI (Relative Strength Index)
 Oscillators: to determine the strength of a trend or to predict tops and bottoms because of overbought and oversold conditions, signal to enter or exit. So it's good for short term.
+If the price makes a higher high, while the RSI only makes a lower high, a bearish signal is generated and vice versa.
+RSI is more useful in trending markets, and stochastics are more useful in sideways or choppy markets. The RSI was designed to measure the speed of price movements, while the stochastic oscillator formula works best in consistent trading ranges.
 ### Bollinger band: 
 Show support & resistance
+### Volume oscillator
+A volume oscillator measures volume by measuring the relationship between two moving averages. 14/28 is conservative. 5/20 is for short term. This indicator plots positive values above the zero line and negative values below the line. A positive value suggests there is enough market support to continue driving price activity in the direction of the current trend. A negative value suggests there is a lack of support, that prices may begin to become stagnant or reverse.
+If a market is rallying, the volume oscillator should rise. When the issue becomes overbought, the oscillator will reverse its direction.
 
 ## Indicators used at the same time.
 MACD, stochastics and RSI may be part of the same "family". So they may be redundant. We can pick one from each group below.
